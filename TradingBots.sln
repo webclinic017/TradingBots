@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TriangularArbitrage", "TriangularArbitrage\TriangularArbitrage.pyproj", "{5F3EC920-7A0D-4E41-9423-81C1E85F82E7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Binance", "Binance\Binance.pyproj", "{B917BD6D-60F6-4246-B2DB-41AC5CD79200}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Coinview", "Coinview\Coinview.pyproj", "{D30F9099-2B08-4685-AFE4-592BDD4851A0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SuperTrend", "SuperTrend\SuperTrend.pyproj", "{196CB2A9-0CE6-4ADE-ACB4-33E69A591E1E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "backtesting", "backtesting\backtesting.pyproj", "{5DA9E90A-F7D9-4D00-9FB3-2C95D107BC23}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ccxt-portfolio", "ccxt-portfolio\ccxt-portfolio.pyproj", "{7D9AE750-8B9A-4F43-B2A2-E2310C4C3360}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "jesse3", "jesse3\jesse3.pyproj", "{E901E96B-A055-43ED-8ACB-3F769E678818}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "algotrade", "..\algotrade\algotrade\algotrade.pyproj", "{408F48B3-507C-4931-9FCA-6962C6EB09C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F3EC920-7A0D-4E41-9423-81C1E85F82E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F3EC920-7A0D-4E41-9423-81C1E85F82E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B917BD6D-60F6-4246-B2DB-41AC5CD79200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B917BD6D-60F6-4246-B2DB-41AC5CD79200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D30F9099-2B08-4685-AFE4-592BDD4851A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D30F9099-2B08-4685-AFE4-592BDD4851A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196CB2A9-0CE6-4ADE-ACB4-33E69A591E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196CB2A9-0CE6-4ADE-ACB4-33E69A591E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA9E90A-F7D9-4D00-9FB3-2C95D107BC23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA9E90A-F7D9-4D00-9FB3-2C95D107BC23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9AE750-8B9A-4F43-B2A2-E2310C4C3360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9AE750-8B9A-4F43-B2A2-E2310C4C3360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E901E96B-A055-43ED-8ACB-3F769E678818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E901E96B-A055-43ED-8ACB-3F769E678818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408F48B3-507C-4931-9FCA-6962C6EB09C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408F48B3-507C-4931-9FCA-6962C6EB09C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54C532E1-B390-4735-9E82-A74791229907}
+	EndGlobalSection
+EndGlobal

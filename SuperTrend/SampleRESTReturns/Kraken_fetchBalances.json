@@ -1,0 +1,384 @@
+{
+    'info': {
+        'error': [],
+        'result': {
+            'ZUSD': '1575.0802',
+            'ZEUR': '0.0000',
+            'ZGBP': '0.0000',
+            'ZAUD': '0.0000',
+            'XXRP': '0.00000000',
+            'XLTC': '0.0000000000',
+            'XXDG': '0.00000000',
+            'XXLM': '1500.00000000',
+            'XETH': '0.0017076585',
+            'XZEC': '0.0000000300',
+            'USDT': '47.50082814',
+            'DASH': '0.0000000000',
+            'EOS': '0.0000000000',
+            'ADA': '0.00000000',
+            'QTUM': '32.0000000000',
+            'XTZ': '0.00000000',
+            'ATOM': '0.00000000',
+            'NANO': '0.0000000000',
+            'SC': '0.0000000000',
+            'LSK': '100.0000000000',
+            'WAVES': '34.6746270000',
+            'ICX': '0.0000000000',
+            'BAT': '600.0000000000',
+            'OMG': '50.0000000000',
+            'LINK': '25.0000000000',
+            'ALGO': '2.11367635',
+            'TRX': '5200.00000000',
+            'DOT': '0.0000000100',
+            'KAVA': '0.00000000',
+            'OXT': '0.0000000000',
+            'STORJ': '825.9165300000',
+            'SNX': '0.0000000000',
+            'KEEP': '1500.0000000000',
+            'FIL': '0.0000000000',
+            'DOT.S': '24.4503841600',
+            'BAL': '14.9880000000',
+            'CRV': '0.0000000000',
+            'UNI': '0.0000000000',
+            'ANT': '0.0000000000',
+            'MANA': '0.0000000000',
+            'OCEAN': '873.0591000000'
+        }
+    },
+    'timestamp': None,
+    'datetime': None,
+    'USD': {
+        'free': None,
+        'used': None,
+        'total': 1575.0802
+    },
+    'EUR': {
+        'free': None,
+        'used': None,
+        'total': 0.0
+    },
+    'GBP': {
+        'free': None,
+        'used': None,
+        'total': 0.0
+    },
+    'AUD': {
+        'free': None,
+        'used': None,
+        'total': 0.0
+    },
+    'XRP': {
+        'free': None,
+        'used': None,
+        'total': 0.0
+    },
+    'LTC': {
+        'free': None,
+        'used': None,
+        'total': 0.0
+    },
+    'DOGE': {
+        'free': None,
+        'used': None,
+        'total': 0.0
+    },
+    'XLM': {
+        'free': None,
+        'used': None,
+        'total': 1500.0
+    },
+    'ETH': {
+        'free': None,
+        'used': None,
+        'total': 0.0017076585
+    },
+    'ZEC': {
+        'free': None,
+        'used': None,
+        'total': 3e-08
+    },
+    'USDT': {
+        'free': None,
+        'used': None,
+        'total': 47.50082814
+    },
+    'DASH': {
+        'free': None,
+        'used': None,
+        'total': 0.0
+    },
+    'EOS': {
+        'free': None,
+        'used': None,
+        'total': 0.0
+    },
+    'ADA': {
+        'free': None,
+        'used': None,
+        'total': 0.0
+    },
+    'QTUM': {
+        'free': None,
+        'used': None,
+        'total': 32.0
+    },
+    'XTZ': {
+        'free': None,
+        'used': None,
+        'total': 0.0
+    },
+    'ATOM': {
+        'free': None,
+        'used': None,
+        'total': 0.0
+    },
+    'NANO': {
+        'free': None,
+        'used': None,
+        'total': 0.0
+    },
+    'SC': {
+        'free': None,
+        'used': None,
+        'total': 0.0
+    },
+    'LSK': {
+        'free': None,
+        'used': None,
+        'total': 100.0
+    },
+    'WAVES': {
+        'free': None,
+        'used': None,
+        'total': 34.674627
+    },
+    'ICX': {
+        'free': None,
+        'used': None,
+        'total': 0.0
+    },
+    'BAT': {
+        'free': None,
+        'used': None,
+        'total': 600.0
+    },
+    'OMG': {
+        'free': None,
+        'used': None,
+        'total': 50.0
+    },
+    'LINK': {
+        'free': None,
+        'used': None,
+        'total': 25.0
+    },
+    'ALGO': {
+        'free': None,
+        'used': None,
+        'total': 2.11367635
+    },
+    'TRX': {
+        'free': None,
+        'used': None,
+        'total': 5200.0
+    },
+    'DOT': {
+        'free': None,
+        'used': None,
+        'total': 1e-08
+    },
+    'KAVA': {
+        'free': None,
+        'used': None,
+        'total': 0.0
+    },
+    'OXT': {
+        'free': None,
+        'used': None,
+        'total': 0.0
+    },
+    'STORJ': {
+        'free': None,
+        'used': None,
+        'total': 825.91653
+    },
+    'SNX': {
+        'free': None,
+        'used': None,
+        'total': 0.0
+    },
+    'KEEP': {
+        'free': None,
+        'used': None,
+        'total': 1500.0
+    },
+    'FIL': {
+        'free': None,
+        'used': None,
+        'total': 0.0
+    },
+    'DOT.S': {
+        'free': None,
+        'used': None,
+        'total': 24.45038416
+    },
+    'BAL': {
+        'free': None,
+        'used': None,
+        'total': 14.988
+    },
+    'CRV': {
+        'free': None,
+        'used': None,
+        'total': 0.0
+    },
+    'UNI': {
+        'free': None,
+        'used': None,
+        'total': 0.0
+    },
+    'ANT': {
+        'free': None,
+        'used': None,
+        'total': 0.0
+    },
+    'MANA': {
+        'free': None,
+        'used': None,
+        'total': 0.0
+    },
+    'OCEAN': {
+        'free': None,
+        'used': None,
+        'total': 873.0591
+    },
+    'free': {
+        'USD': None,
+        'EUR': None,
+        'GBP': None,
+        'AUD': None,
+        'XRP': None,
+        'LTC': None,
+        'DOGE': None,
+        'XLM': None,
+        'ETH': None,
+        'ZEC': None,
+        'USDT': None,
+        'DASH': None,
+        'EOS': None,
+        'ADA': None,
+        'QTUM': None,
+        'XTZ': None,
+        'ATOM': None,
+        'NANO': None,
+        'SC': None,
+        'LSK': None,
+        'WAVES': None,
+        'ICX': None,
+        'BAT': None,
+        'OMG': None,
+        'LINK': None,
+        'ALGO': None,
+        'TRX': None,
+        'DOT': None,
+        'KAVA': None,
+        'OXT': None,
+        'STORJ': None,
+        'SNX': None,
+        'KEEP': None,
+        'FIL': None,
+        'DOT.S': None,
+        'BAL': None,
+        'CRV': None,
+        'UNI': None,
+        'ANT': None,
+        'MANA': None,
+        'OCEAN': None
+    },
+    'used': {
+        'USD': None,
+        'EUR': None,
+        'GBP': None,
+        'AUD': None,
+        'XRP': None,
+        'LTC': None,
+        'DOGE': None,
+        'XLM': None,
+        'ETH': None,
+        'ZEC': None,
+        'USDT': None,
+        'DASH': None,
+        'EOS': None,
+        'ADA': None,
+        'QTUM': None,
+        'XTZ': None,
+        'ATOM': None,
+        'NANO': None,
+        'SC': None,
+        'LSK': None,
+        'WAVES': None,
+        'ICX': None,
+        'BAT': None,
+        'OMG': None,
+        'LINK': None,
+        'ALGO': None,
+        'TRX': None,
+        'DOT': None,
+        'KAVA': None,
+        'OXT': None,
+        'STORJ': None,
+        'SNX': None,
+        'KEEP': None,
+        'FIL': None,
+        'DOT.S': None,
+        'BAL': None,
+        'CRV': None,
+        'UNI': None,
+        'ANT': None,
+        'MANA': None,
+        'OCEAN': None
+    },
+    'total': {
+        'USD': 1575.0802,
+        'EUR': 0.0,
+        'GBP': 0.0,
+        'AUD': 0.0,
+        'XRP': 0.0,
+        'LTC': 0.0,
+        'DOGE': 0.0,
+        'XLM': 1500.0,
+        'ETH': 0.0017076585,
+        'ZEC': 3e-08,
+        'USDT': 47.50082814,
+        'DASH': 0.0,
+        'EOS': 0.0,
+        'ADA': 0.0,
+        'QTUM': 32.0,
+        'XTZ': 0.0,
+        'ATOM': 0.0,
+        'NANO': 0.0,
+        'SC': 0.0,
+        'LSK': 100.0,
+        'WAVES': 34.674627,
+        'ICX': 0.0,
+        'BAT': 600.0,
+        'OMG': 50.0,
+        'LINK': 25.0,
+        'ALGO': 2.11367635,
+        'TRX': 5200.0,
+        'DOT': 1e-08,
+        'KAVA': 0.0,
+        'OXT': 0.0,
+        'STORJ': 825.91653,
+        'SNX': 0.0,
+        'KEEP': 1500.0,
+        'FIL': 0.0,
+        'DOT.S': 24.45038416,
+        'BAL': 14.988,
+        'CRV': 0.0,
+        'UNI': 0.0,
+        'ANT': 0.0,
+        'MANA': 0.0,
+        'OCEAN': 873.0591
+    }
+}
