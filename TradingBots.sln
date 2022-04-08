@@ -19,6 +19,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "jesse3", "jesse3\jesse3.pyp
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "algotrade", "..\algotrade\algotrade\algotrade.pyproj", "{408F48B3-507C-4931-9FCA-6962C6EB09C0}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "backtrader", "backtrader\backtrader.pyproj", "{A53DCECA-23AE-4CEB-BE75-418F7F42E3E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,8 @@ Global
 		{E901E96B-A055-43ED-8ACB-3F769E678818}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{408F48B3-507C-4931-9FCA-6962C6EB09C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{408F48B3-507C-4931-9FCA-6962C6EB09C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A53DCECA-23AE-4CEB-BE75-418F7F42E3E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A53DCECA-23AE-4CEB-BE75-418F7F42E3E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
